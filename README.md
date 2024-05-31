@@ -8,23 +8,6 @@ A raw twitter is a social network service where users can register their own acc
 A breakdown of the tasks assigned to each team member.
 
 Overview of division of work：In order to give each member the opportunity to practice front-end and back-end knowledge, we break down the work into pages.
- 
-Sadeghtehrani Azadeh:
-• Create index page.
-• Sign in, sign up, logout, Information verification etc.
-• Write her own part of the slide and format slide .
-
-Zhonghan Tang
-• Create home page and search page.
-• Search, filter, post, display tweets etc.
-• Set up github and database.
-• Write his own part of the slide
-
-Yuchen Wang
-• Create a profile page.
-• Show tweets and profile, edit profile, delete or edit tweets, etc.
-• Organizational support documentation
-• Write his own slide section
 
 ## DEMO
 
